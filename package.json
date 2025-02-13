@@ -35,5 +35,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://tonydevpro.github.io/jogo-da-velha"
+  "homepage": "https://tonydevpro.github.io/jogo-da-velha",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
 }
